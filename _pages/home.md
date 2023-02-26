@@ -14,16 +14,15 @@ excerpt: ""
 ---
 
 ## About
+<small> I am currently pursuing Master's degree in Cybersecurity at [Georgia Institute of Technology](https://www.gatech.edu/). With a strong passion for security, I have gained valuable knowledge and hands-on experience in various security domains during my academic and professional experiences. I am also a Head Graduate Teaching Assistant here for [Applied Cryptography Course](https://omscs.gatech.edu/cs-6260-applied-cryptography/) (CS 6260).</small>
 
-<small> I am a CS Graduate Student, specializing in Machine Learning at [Georgia Institute of Technology](https://www.gatech.edu/). I am also a Graduate Teaching Assistant here for Machine Learning (CS 7641). I have coupled my Masters program with a research project [Exploratory Video Analytics](https://evadb.readthedocs.io/en/stable/), advised by [Prof. Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/), where we are trying to build a Visual Database Management System that enables easy and efficient querying over videos. </small>
-
-<small> This summer I interned at [Meta](https://meta.com) in the Creation ML team, where I had the opportunity to work end-to-end on ML pipelines, building and training large scale models for Music Recommendation used across Facebook for Stories and Reels. Prior to starting my Masters, I have worked in Machine Learning roles at [Iron Mountain Insight](https://www.ironmountain.com/services/content-service-platform) and [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b). I graduated from [NIT-Trichy](https://www.nitt.edu/home/academics/departments/cse/) in 2018, where I received my B.Tech. in Computer Science and Engineering. Please head over to my [resume](/resume) or [projects](/projects) to know more about my work experiences. </small>
+<small> This summer I interned at [CSX Technology](https://www.csx.com/) in their Security Infrastructre Team. As part of the company's efforts to enhance its cloud security posture, I led a proof of concept initiative using Agile methodology. This involved close collaboration with the GRC team, with whom I worked on daily threat intelligence exercises, threat modeling, access control, and security governance. To bolster the company's defenses, I evaluated and deployed Microsoft Defender for cloud and gained proficiency in working with cloud platforms such as Azure, GCP, and AWS. Please head over to my [resume](/resume) or [projects](/projects) to know more about my work. </small>
 
 ## Interests
 
-<small> I love Mathematics and solving challenging problem statements or puzzles. I always hope and strive to write clean, well-documented code. In the past 4 years of my academic and industry experience, I have worked with a good mix of Machine Learning, Systems and Cloud. In the next few years of my career, I want to explore and learn more along similar domains, building solutions that bridge research and industry.  </small>
+<small> A security enthusiast who loves to keep up with the latest cybersecurity trends and techniques. I also enjoy dancing, and  find comfort in binge-watching TV shows and movies. I believe that a healthy work-life balance is essential for a fulfilling life, and enjoys indulging in my hobbies such as playing chess and badminton to keep my mind and body refreshed. </small>
 
-<small> Work apart, I passionately follow and play Football/Cricket. I try to practice yoga regularly and truly believe being active and fit is essential for a well-functioning mind. </small>
+<small> Currently, I am preparing for my OSCP certifcation. </small> 
 
 
 <div id='featured'></div>
